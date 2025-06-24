@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @Saran-227
-- 👀 I’m interested in ... coding,graphic designing & video editing.
-- 🌱 I’m currently learning ... java
-- 💞️ I’m looking to collaborate on ... developers like me!
-- 📫 To contact me ... ssaranjeet227@gmail.com
-- 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... i'm not a nerd, but still pro in coding!
-
-<!---
-Saran-227/Saran-227 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I'm Saranjeet Singh (@Saran-227)  
+- 🚀 I'm a Computer Science undergrad (AI/ML) passionate about building smart digital solutions  
+- 🧠 Currently exploring agentic AI, full-stack development & Java  
+- 🛠️ My tech stack includes: JavaScript, HTML/CSS, Firebase, MySQL, Python, Figma, OpenAI API, C/C++
+- 💡 I’ve built AI planners, smart wallets, chatbots & e-commerce platforms  
+- 🎨 I also love graphic design and video editing — check out my design work!  
+- 🤝 I’m open to collaborating on AI-powered or creative tech projects  
+- 📫 Reach me at: ssaranjeet227@gmail.com  
+- ⚡ Fun fact: I blend code with creativity like it’s magic ✨  
